@@ -1,5 +1,5 @@
 #Jiajia Li
-#260432553
+
 import requests
 import doctest
 def dict_to_query(input_dict):
